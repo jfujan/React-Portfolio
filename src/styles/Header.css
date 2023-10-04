@@ -1,0 +1,13 @@
+.header {
+    background: #36a7fd;
+    height: 150px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    padding-top: 25px;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
