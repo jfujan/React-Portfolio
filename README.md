@@ -4,3 +4,7 @@ This app is a personal portfolio of some projects I've worked on created using R
 
 ## Screenshot
 ![image](https://github.com/jfujan/React-Portfolio/assets/131504994/576d6708-45e3-44ef-ae73-4d10abf0d663)
+
+## Deployed Link
+https://jfujanportfolio-b756051007d6.herokuapp.com/
+
