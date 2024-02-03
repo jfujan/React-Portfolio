@@ -11,7 +11,7 @@ const styles = {
     return (
       <section style={styles.pageStyles} className="pages">
         <h2>Resume</h2>
-        <p>No resume yet</p>
+        <a href="resume2024.pdf">Resume</a>
     </section>
         );
     }
